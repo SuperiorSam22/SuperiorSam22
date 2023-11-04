@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sandeep</h1>
 <h3 align="center">An enthusiastic coder, developer, guitarist, and always a learner.</h3><br/><br/>
 
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" style="float:right">
+<img class="imgradius" align="right" alt="coding" width="350" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" style="float:right"><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superiorsam22&label=Profile%20views&color=0e75b6&style=flat" alt="superiorsam22" /> </p>
 
