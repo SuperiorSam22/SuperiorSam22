@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sandeep</h1>
-<h3 align="center">An enthusiastic coder, developer, gamer, and always a learner.</h3><br/><br/>
+<h3 align="center">An enthusiastic coder, developer, guitarist, and always a learner.</h3><br/><br/>
 
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" style="float:right">
 
