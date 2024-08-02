@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superiorsam22&label=Profile%20views&color=0e75b6&style=flat" alt="superiorsam22" /> </p>
 
-- 🔭 My current tech stack: **MongoDB, Express.JS, React.JS, Node.JS with Tailwind CSS.**
-
 - 🌱 I’m currently focusing on **Full Stack development and DSA.**
 
 - 👨‍💻 My first React Web-App is hosted at - [https://flickmotion.vercel.app/)
