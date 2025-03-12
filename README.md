@@ -13,7 +13,7 @@
 
 - 📫 E-mail me at: [sandeep221102@gmail.com](sandeep221102@gmail.com)
 
-- ⚡ Fun fact: **My coping mechanism is cracking lame jokes on myself.**
+- ⚡ Fun fact: **Cracking jokes is my coping mechanism**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
